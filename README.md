@@ -4,7 +4,7 @@ This is a web site for a session I am organizing for the April 2017
 Day of Action at MIT with two goals: 
 
 * Give participants experience in **How to Influence
-Organizations*. Did you know that Cambridge helped Trump win the
+Organizations**. Did you know that Cambridge helped Trump win the
 election? Westboro Babtist Church has done more to forward LGBT rights
 than most liberal groups? Anti-America protests in the Middle East
 helped fuel sentiment in America for interventions. In many cases,
@@ -27,15 +27,20 @@ levels of undress.
 
 # Why should you attend this session?
 
-As a student, I had strong hard skills, but minimal soft skills. This
-gap held me back (in the words of one mentor, I was "like a bull in a
+In college, I had (and didn't understand) soft skills. This gap held
+me back (in the words of one mentor, I was "like a bull in a
 Chinashop"). Since leaving the student life, I have been involved in
 three initatives as a cofounder or early employee. All broke the $100
 million mark, and through that journey, I learned much more about soft
 skills required in the real world. I'd like to share some of that
 knowledge. A few of the things I've done (like edX, which I proposed
 to the provost of MIT in the early fall of 2011) resulted in profound
-institutional changes.
+institutional changes. I'd like to share some of that knowledge.
+
+In that time, I have also become increasingly critical of the academic
+establishment. In my half-decade experience as the Chief Scientist of
+edX, I have seen experienced many shortcomings of academia. I'd like
+to figure out if we can effect positive change.
 
 # Problem Statement
 
