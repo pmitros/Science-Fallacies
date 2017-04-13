@@ -31,8 +31,9 @@ Primarily, we will break up into small groups. Each group would focus on one top
 * Lack of incentives around errors
 * Incentives for promotion/popular promotion for academics and universities
 * Incentives for science reporters/popular book publishers
+* Secret science
 
-# Tentatrive session schedule
+# Tentative session schedule
 
 * 15 minutes: Overview of session, overview of frameworks of organizational change
 * 30 minutes: Break into groups. Each group prepares a 5 minute minute presentation about their problem
