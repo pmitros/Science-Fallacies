@@ -55,6 +55,20 @@ scientific establishment, and how we get so much wrong. Time
 permitting, we will try to come up with ways to improve the incentives
 within the scientific establishment.
 
+# Pre-work and References
+
+Prework is not required, but there are two videos which might be
+helpful to watch:
+
+* [This Video Will Make You Angry](https://www.youtube.com/watch?v=rE3j_RHkqJc)
+* [Rules for Rulers](https://www.youtube.com/watch?v=rStL7niR7gs)
+
+And a few more references:
+
+* [Building Relationships](http://morassociates.com/readings/MOR_Building_Relationships_Article.pdf)
+* [How to Win Friends and Influence People](https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034)
+* [The Dictator's Handbook](https://www.amazon.com/Dictators-Handbook-Behavior-Almost-Politics/dp/1610391845)
+
 # Session Structure
 
 Primarily, we will break up into small groups. Each group would focus
