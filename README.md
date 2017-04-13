@@ -1,25 +1,24 @@
 # What is this?
 
 This is a web site for a session I am organizing for the April 2017
-Day of Action at MIT. I am running an activity with several goals.
+Day of Action at MIT with two goals: 
 
-An underlying goal of this session is to give experience in **How to
-Influence Organizations*. Did you know that Cambridge helped Trump win
-the election? Westboro Babtist Church has done more to forward LGBT
-rights than most liberal groups? Anti-America protests in the Middle
-East helped fuel sentiment in America for interventions. In many
-cases, change tactics have the opposite effects from those intended by
-their participants, or no effect at all. Effective change tactics
-require understanding the parties involved, their motivations, and
-predicting the effects of our actions. Otherwise, you simply mobilize
-the opposition. This session explores frameworks for effecting
+* Give participants experience in **How to Influence
+Organizations*. Did you know that Cambridge helped Trump win the
+election? Westboro Babtist Church has done more to forward LGBT rights
+than most liberal groups? Anti-America protests in the Middle East
+helped fuel sentiment in America for interventions. In many cases,
+change tactics have the opposite effects from those intended by their
+participants, or no effect at all. Effective change tactics require
+understanding the parties involved, their motivations, and predicting
+the effects of our actions. Otherwise, you simply mobilize the
+opposition. This session explores frameworks for effecting
 organizational change, and concrete steps we can take which directly
 lead to change.
-
-It is helpful to learn such theory in the context of application. In
-the belief that change starts at home, we will concretely look at
-several ways in which incentives in the scientific establishment lead
-to bad science, and investigate what we can do about it.
+* Apply this theory to an application area. In the belief that change
+starts at home, we will concretely look at several ways in which
+incentives in the scientific establishment lead to bad science, and
+investigate what we can do about it.
 
 This is a github page. This means you are seeing everything I am
 working on in realtime. Depending on when you look at this page, it
