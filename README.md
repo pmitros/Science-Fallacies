@@ -79,7 +79,7 @@ theoretically and practically, how to effectively effect
 organizational change.
 
 I have been increasingly successful at this effort. I have been
-involved in three initatives as a cofounder or early employee. All
+involved in three initiatives as a co-founder or early employee. All
 broke the $100 million mark. Through that journey, I learned much more
 about soft skills required in the real world. I'd like to share some
 of that knowledge. A few of the things I've done (like edX, which I
