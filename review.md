@@ -41,14 +41,14 @@ submitted to an IEEE conference.
     PAPER: 184
     TITLE: Point-of-need-help at Scale: Recommender Systems
     OVERALL EVALUATION: 1 (weak accept)
-    Relevance (is the paper on a topic that is relevant to the conference?): 5 (excellent)
-    Originality(does the paper break new ground or just re-hash old issues?): 4 (good)
-    Research significance (is the contribution major or minor?): 2 (poor)
-    Technical Quality (are the methodologies/experiments/results sound?): 2 (poor)
-    Research context/knowledge of the field (is the paper situated in an appropriate research context? good references?): 4 (good)
-    Form - Organization and readability (are the arguments made coherently? is the paper organized logically? is the paper written at an appropriate level for the ICALT audience?): 4 (good)
-    Form - Grammar and style (Are syntax, vocabulary and spelling correct?): 4 (good)
-    Best Paper Nomination (Would you recommend this paper as candidate for best paper?): 1 (Definitely not)
+    Relevance: 5 (excellent)
+    Originality: 4 (good)
+    Research significance: 2 (poor)
+    Technical Quality: 2 (poor)
+    Research context/knowledge of the field: 4 (good)
+    Form - Organization and readability: 4 (good)
+    Form - Grammar and style: 4 (good)
+    Best Paper Nomination: 1 (Definitely not)
 
     ----------- REVIEW -----------
 
@@ -59,29 +59,36 @@ submitted to an IEEE conference.
     could submit a remediation which would be seen by future
     students who made the same mistake.
 
-(Comment: This sentence is confusing our system with one from the prior work section. The rest of the review continues to confuses the two)
+Comment: This sentence is confusing our system with one from the prior work section. The rest of the review continues to confuses the two for the rest of the review
 
-    however, the authors speak nothing about how are testing the student remediation to be sure that they are correct. This is a crucial point but it is not treated in the paper. It would be very interesting to see a grafic with percentage of correct remediation and incorrect remediation.
+    however, the authors speak nothing about how are testing the
+    student remediation to be sure that they are correct. This is a
+    crucial point but it is not treated in the paper. It would be very
+    interesting to see a grafic with percentage of correct remediation
+    and incorrect remediation.
     
-    Explanation of Figure 3 is not understood. Which are the correlations  shown in Figure 3?
+    Explanation of Figure 3 is not understood. Which are the
+    correlations shown in Figure 3?
     
-    It is missing the explanation about the recomendation algorithm used. The page  contained the source code, https://github.com/ANONYMIZED/ANONYMIZED is not operative.
+    It is missing the explanation about the recomendation algorithm
+    used. The page contained the source code,
+    https://github.com/ANONYMIZED/ANONYMIZED is not operative.
 
-(Comment: We replaced identifying information throughout the paper with 'ANONYMIZED.')
+Comment: We replaced identifying information throughout the paper with 'ANONYMIZED.'
     
     ----------------------- REVIEW 2 ---------------------
     PAPER: 184
     TITLE: Point-of-need-help at Scale: Recommender Systems
 
     OVERALL EVALUATION: -2 (reject)
-    Relevance (is the paper on a topic that is relevant to the conference?): 5 (excellent)
-    Originality(does the paper break new ground or just re-hash old issues?): 3 (fair)
-    Research significance (is the contribution major or minor?): 2 (poor)
-    Technical Quality (are the methodologies/experiments/results sound?): 2 (poor)
-    Research context/knowledge of the field (is the paper situated in an appropriate research context? good references?): 3 (fair)
-    Form - Organization and readability (are the arguments made coherently? is the paper organized logically? is the paper written at an appropriate level for the ICALT audience?): 3 (fair)
-    Form - Grammar and style (Are syntax, vocabulary and spelling correct?): 4 (good)
-    Best Paper Nomination (Would you recommend this paper as candidate for best paper?): 1 (Definitely not)
+    Relevance: 5 (excellent)
+    Originality: 3 (fair)
+    Research significance: 2 (poor)
+    Technical Quality: 2 (poor)
+    Research context/knowledge of the field: 3 (fair)
+    Form - Organization and readability: 3 (fair)
+    Form - Grammar and style: 4 (good)
+    Best Paper Nomination: 1 (Definitely not)
     
     ----------- REVIEW -----------
 
@@ -95,7 +102,7 @@ submitted to an IEEE conference.
     The presented qualitative results are limited to a very restricted
     scale, given that the number of participants was small
 
-(Comment: The paper was the first use of a recommender system in a MOOC. It was the largest deployment of such a recommender system to-date, with thousands of students; prior work in RECSYS used classrooms, typically with dozens of students. The reviewers somehow missed both that this was in a MOOC, the number of students given in the submitted paper, and in all of the plots)
+Comment: The paper was the first use of a recommender system in a MOOC. It was the largest deployment of such a recommender system to-date, with thousands of students; prior work in RECSYS used classrooms, typically with dozens of students. The reviewers somehow missed both that this was in a MOOC, the number of students given in the submitted paper, and in all of the plots. The rest of the review continues to presume we did this in one residential classroom.
 
     and the observations were limited to one course. Thus, the main
     point of the paper, the applicability of the proposed recommender
