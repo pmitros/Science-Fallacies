@@ -23,7 +23,7 @@ bad science. According to
 [Pew](http://www.pewinternet.org/2016/10/04/public-views-on-climate-change-and-climate-scientists/),
 roughly half of the US population does not believe in human-caused
 climate change. The public has developed a healthy distrust of
-science. Unforunately, much of this skepticism is justified. Science,
+science. Unfortunately, much of this skepticism is justified. Science,
 especially as presented in K-12 classrooms, popular press, and popular
 books, is [quite
 often](http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124)
@@ -37,7 +37,7 @@ recommended pre-work is available. Session limited to 30 participants.
 
 # Pre-work and References
 
-Prework is not required but recommended. In particular, there are two
+Pre-work is not required but recommended. In particular, there are two
 entertaining videos which might be helpful to watch before the
 session. [This Video Will Make You
 Angry](https://www.youtube.com/watch?v=rE3j_RHkqJc) discusses how
@@ -73,7 +73,7 @@ to "communications intensive" courses and groupwork, which didn't
 really do the job especially well.
 
 This gap held me back (in the words of one mentor, as I was starting a
-new organization, I was "like a bull in a Chinashop"). Since
+new organization, I was "like a bull in a chinashop"). Since
 graduation, I have spent a lot of time trying to understand, both
 theoretically and practically, how to effectively effect
 organizational change.
