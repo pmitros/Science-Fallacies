@@ -101,14 +101,16 @@ figure out how we might be able to work to effect positive change.
 
 # Group Topics
 
+* [Peer review process](review.html): In most cases, peer review is a
+  30 second skim. In most cases, there are no incentives for doing a
+  good job. Famous computer-generated and made-up papers have been
+  accepted into credible venues, and agreement between reviewers is
+  minimal.
 * Confidence intervals and p-values. P-values and lack of reporting of
   null results. Famous John Ioannidis paper.
 * The scientific process
 * Selection of academics: Thereau called the concept here a mutual
   admiration society, and today, it is called an echo chamber
-* Peer review process: A 30 second skim, in many cases. No incentives
-  for doing a good job. Famous computer-generated and BS papers
-  accepted
 * Lack of incentives around errors
 * Incentives for promotion/popular promotion for academics and
   universities
