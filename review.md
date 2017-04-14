@@ -30,8 +30,17 @@ sample review below.
 Consider:
 * If you've published articles, what has your experience with the peer
   review process been?
-* What incentives does academia give reviewers to do a good job?
-* What pressures are there on acadamics' time?
+* What incentives does academia give reviewers to do a good job? What
+  pressures are there on acadamics' time? Will academics who spend a
+  lot of time on reviews get acadamic jobs? Tenure?
+* Consider three otherwise identical academics: (1) One does careful
+  work, free of errors (2) One does sloppy work with many accidental
+  errors (3) One occasionally fakes results. Who is more likely to be
+  selected for acadamic jobs? For tenure?  
+* Does this process result in good science? If not, how would you
+  improve on it? Consider the incentives of academics, university
+  administrators, conference organizers, reviewers, and other
+  participants in the system.
 
 For people unfamiliar with the review process, I attach a sample set
 of reviews from a paper about deployment of a MOOC recommender system

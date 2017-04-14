@@ -114,6 +114,7 @@ figure out how we might be able to work to effect positive change.
   universities
 * Incentives for science reporters/popular book publishers
 * Secret science
+* Reading previous work
 
 # About this page
 
