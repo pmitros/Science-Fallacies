@@ -44,9 +44,9 @@ Consider:
   administrators, conference organizers, reviewers, and other
   participants in the system.
 
-For people unfamiliar with the review process, I attach a sample set
-of reviews from a paper about deployment of a MOOC recommender system
-submitted to an IEEE conference.
+For participants unfamiliar with the review process, I attach a sample
+set of reviews from a paper about deployment of a MOOC recommender
+system submitted to an IEEE conference.
 
     ----------------------- REVIEW 1 ---------------------
     PAPER: 184
