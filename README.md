@@ -2,16 +2,16 @@
 
 This is a web site for a session I am organizing for the April 2017
 Day of Action at MIT. This session focuses on two topics: (1) How to
-affect organizational change (2) Bad science.
+effect organizational change (2) Bad science.
 
 # What is this session about?
 
 Did you know that [Cambridge helped Trump win the
 election](https://www.youtube.com/watch?v=rE3j_RHkqJc)? Westboro
 Babtist Church has done more to forward LGBT rights than most liberal
-activists groups? Many attempts at activism have the opposite effect
-from the one desired. We will briefly discuss how to effectively work
-to influence organizational systems (government, corporate, or
+activists groups? Many attempts at activism have opposite of the
+desired effect. We will briefly discuss how to work to effectively
+influence organizational systems (whether government, corporate, or
 otherwise) through both [hard
 tactics](https://www.youtube.com/watch?v=rStL7niR7gs) and [soft
 tactics](https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034).
@@ -25,10 +25,10 @@ science. Unforunately, much of this skepticism is justified. Science,
 especially as presented in K-12 classrooms, popular press, and popular
 books, is [quite
 often](http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124)
-quite wrong. This undermines the credibility of science where it is
-right. We will work in small groups to explore some of the issues in
-the scientific establishment, and try to come up with ways to fix
-them.
+quite wrong. This undermines the credibility of science even when it
+is right. We will work in small groups to explore some of the issues
+in the scientific establishment, and try to come up with ways to
+address them.
 
 A [draft curriculum](http://www.sciencefallacies.org/) with
 recommended pre-work is available. Session limited to 30 participants.
