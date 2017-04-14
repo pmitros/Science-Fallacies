@@ -106,8 +106,10 @@ figure out how we might be able to work to effect positive change.
   good job. Famous computer-generated and made-up papers have been
   accepted into credible venues, and agreement between reviewers is
   minimal.
-* Confidence intervals and p-values. P-values and lack of reporting of
-  null results. Famous John Ioannidis paper.
+* [Statistical Significance](significant.html): A bit over a decade
+  ago, John Ioannidis showed that most scientific results are wrong,
+  due to the way we use confidence intervals. 
+
 * The scientific process
 * Selection of academics: Thereau called the concept here a mutual
   admiration society, and today, it is called an echo chamber
