@@ -25,9 +25,10 @@ science. Unforunately, much of this skepticism is justified. Science,
 especially as presented in K-12 classrooms, popular press, and popular
 books, is [quite
 often](http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124)
-quite wrong. We will work in small groups to explore some of the
-issues in the scientific establishment, and try to come up with ways
-to fix them.
+quite wrong. This undermines the credibility of science where it is
+right. We will work in small groups to explore some of the issues in
+the scientific establishment, and try to come up with ways to fix
+them.
 
 A [draft curriculum](http://www.sciencefallacies.org/) with
 recommended pre-work is available. Session limited to 30 participants.
@@ -100,13 +101,14 @@ figure out how we might be able to work to effect positive change.
 
 # Group Topics
 
+* Confidence intervals and p-values. P-values and lack of reporting of
+  null results. Famous John Ioannidis paper.
+* The scientific process
 * Selection of academics: Thereau called the concept here a mutual
   admiration society, and today, it is called an echo chamber
 * Peer review process: A 30 second skim, in many cases. No incentives
   for doing a good job. Famous computer-generated and BS papers
   accepted
-* P-values and lack of reporting of null results. Famous John
-  Ioannidis paper.
 * Lack of incentives around errors
 * Incentives for promotion/popular promotion for academics and
   universities
