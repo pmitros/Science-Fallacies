@@ -108,17 +108,21 @@ figure out how we might be able to work to effect positive change.
   minimal.
 * [Statistical Significance](significant.html): A bit over a decade
   ago, John Ioannidis showed that most scientific results are wrong,
-  due to the way we use confidence intervals. 
-
-* The scientific process
-* Selection of academics: Thereau called the concept here a mutual
-  admiration society, and today, it is called an echo chamber
-* Lack of incentives around errors
-* Incentives for promotion/popular promotion for academics and
-  universities
-* Incentives for science reporters/popular book publishers
-* Secret science
-* Reading previous work
+  due to the way we use confidence intervals.
+* [Mutual Admiration Society](admiration.md). Researchers in fixed
+  fields write letters of recommendation for each other, cite each
+  others' papers, review each others' papers, and include or exclude
+  individuals into their fields. Thereau called this a mutual
+  admiration society. Today, it is called an echo chamber, and
+  conflicting voices are excluded from the discourse.
+* [Science Reporting](reporting.html). Did you know chocolate is
+  healthy? There is a selection process by which results go from
+  science to popularization, whether through books or articles. It is
+  rarely based on the quality of the research.
+* [Understanding What Came Before](prior-work.html). Academics are, in
+  many ways, disincentivized to read previous work, and incentivized
+  to operate in silos.
+* [Scientific Standards](standards.html). 
 
 # About this page
 
