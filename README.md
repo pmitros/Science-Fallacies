@@ -63,9 +63,10 @@ which focuses on how to understand the opposition, and come up with
 solutions which meet the needs of all parties involved.
 
 When reading these books, remember that changes often happen
-behind-the-scenes. 
+behind-the-scenes. The most visible protests are rarely the most
+effective.
 
-# Why should you attend this session?
+# Why should I attend this session?
 
 In college at MIT, most of us had poor soft skills, and didn't really
 get what soft skills were. MIT's training in soft skills was limited
@@ -117,8 +118,8 @@ figure out how we might be able to work to effect positive change.
   individuals into their fields. Thereau called this a mutual
   admiration society. Today, it is called an echo chamber, and
   conflicting voices are excluded from the discourse.
-* [Science Reporting](reporting.html). Did you know chocolate is
-  healthy? There is a selection process by which results go from
+* [Science Reporting](reporting.html). Did you know [chocolate is
+  healthy](http://www.telegraph.co.uk/food-and-drink/healthy-eating/chocolate-10-health-reasons-you-should-eat-more-of-it/)? There is a selection process by which results go from
   science to popularization, whether through books or articles. It is
   rarely based on the quality of the research.
 * [Understanding What Came Before](prior-work.html). Academics are, in
