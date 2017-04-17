@@ -1,3 +1,24 @@
+# Mutual Admiration Society 
+
+The term *mutual admiration society* is attributed to Thoreau, and was
+popularized by the 1956 Broadway musical *Happy Hunting*. It refers to
+a group of people who mutually respect and promote each other. In the
+Web 2.0 era, this term was largely replaced with the term
+*groupthink*. Your group will explore how this concept feeds into how
+academia is structured, and how to fix it. Diversity in academia has
+grown based on the protected classes (race, ethnicity, gender, etc.),
+but there has been very little progress in terms of different points
+of view. For example, a recent (informal) survey found that, of dozens
+of people surveyed at MIT and Harvard, zero had voted for Trump. A
+more broad paper found that (todo: evengalical Christian survey)
+(todo: socioeconomic survey). (todo: academics with non-traditional
+backgrounds)
+
+Curiously, despite the focus on diversity, the diversity of ideas and
+ideologies remains very low in elite academia.
+
+# Task
+
 Read [this popular article on
 spanking](https://news.utexas.edu/2016/04/25/risks-of-harm-from-spanking-confirmed-by-researchers).
 
@@ -5,26 +26,39 @@ Now, read the original paper.
 
 * Do you agree with the conclusion?
 * Could you comment on the conclusion?
-* Were you able to read the paper?
+* Were you able to even read the paper?
 
-If you weren't able to find, please ask me for a copy. Most scientific
-results are published in proprietary journals, and hidden from public
-scrutiny. This particular paper cannot even be accessed through MIT
-Libraries. It is open to a very select community.
+If you weren't able to find a copy online, please ask me. Most
+scientific results are published in proprietary journals, hidden from
+public scrutiny, and only available to peers. This particular paper
+could not even be accessed through MIT Libraries.
 
-How is this paper selected for publication? How are people selected to
-be in this community? A peer review process. 
+In the academy, existing professors:
 
+* Write reference letters for jobs
+* Hire new academics
+* Peer review papers
 
+Research communities are self-perpetuating. They are *extremely*
+self-perpetuating at the tenure level, where one upset letter writer
+can tank a tenure case.
 
-The study did not support the conclusion: "Risks of Harm from Spanking Confirmed by Analysis of Five Decades of Research." While this is the goal of the study (which itself states that it was done since the authors believe "there is a need for definitive conclusions about the potential consequences of spanking for children" -- which, as a goal for a study, contradicts the scientific method even at a high-school level), the study draws a much softer conclusion, with plenty of caveats.
+As a result, it is often impossible to find jobs in new fields, old
+fields stick around well past their usefulness, but in this group, we
+will explore a different aspect: politics and culture. 
 
-What I concluded from the study is -- unsurprisingly -- that parents who follow guidelines from organizations such as the American Academy of Pediatrics have better results, and that following such recommendations is a good idea. Of course, reasonable people may disagree on specific guidelines, or how to balance such guidelines against each other where conflicts come up.
+In the social sciences, such communities have underlying assumptions
+and taboos which cannot be questioned.
 
-The problem with such reporting on studies, broadly speaking, is:
-It undermines people's faith in science. Due to overreporting of results, people increasingly view science as an unreliable authority which changes its opinion regularly. This translates into views on evolution, global warming, diet, and similar. Indeed, we see articles debunking global warming, since data from today contradicts predictions published in similar articles a decade ago. While the studies were honest, but reporting on them was dishonest. This gives a genuine reason to distrust scientists as an authority.
-It translates into bad policy. Where not using spanking is a great, evidence-based guideline for parents to follow, such studies and reporting translate into government policy. This translates into issues such as custody and similar, where one would normally follow higher standards of evidence.
-It translates into discrimination. Use of spanking has strong correlations with ethnicity. 
-One fine-grained suggestion I might add would be to avoid the coarse grouping of US/non-US. In particular, almost all methodological errors in the US would apply in most EU countries. They would not apply to a place like Ghana, where spanking is accepted as the mainstream practice. 
+In this case, the community
+reached the (reasonable, but unproven) consensus that spanking harms
+children. The study was run with the stated goal of validating this
+belief: "there is a need for definitive conclusions about the
+potential consequences of spanking for children"
 
-Piotr
+The press coverage associated with the reflects that goal. 
+
+What I concluded from the study is -- unsurprisingly -- that parents
+who follow guidelines from organizations such as the American Academy
+of Pediatrics have better results. Following such guidelines is a good
+idea.
