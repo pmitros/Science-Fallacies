@@ -95,8 +95,9 @@ figure out how we might be able to work to effect positive change.
 
 # Tentative Session Structure
 
-* 15 minutes: Overview of session, overview of frameworks of
-  organizational change
+* 15 minutes: [Overview of
+  session](https://docs.google.com/presentation/d/1gxlJ7eoxU2NzR8LmCFrHPFu1Z1fv0n6y1t9ZVSdunlQ/edit),
+  overview of frameworks of organizational change
 * 30 minutes: Break into groups. Each group prepares a 5 minute minute
   presentation about their problem
 * 30 minutes: Group presentations
