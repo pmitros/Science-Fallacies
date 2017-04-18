@@ -42,7 +42,7 @@ spanking](https://news.utexas.edu/2016/04/25/risks-of-harm-from-spanking-confirm
 
 Now, skim the original paper. This paper is not an example of a
 particularly bad paper (something we can all find). It is typical of
-the state of the academy.
+the practice in the academy.
 
 * Do you agree with the conclusion?
 * Could you comment on the conclusion?
