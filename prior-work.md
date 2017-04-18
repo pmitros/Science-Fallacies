@@ -46,3 +46,9 @@ For the most part, researchers who ignore prior work can:
 * Have more time for research. 
 
 In a competitive landscape, such researchers tend to win.
+
+For your presentation:
+
+* Summarize the problem
+* Summarize the key parties and incentives involved
+* Describe an approach to address the problem
