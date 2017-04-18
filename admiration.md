@@ -17,22 +17,23 @@ of the nation. A
 found that at Dartmouth, Princeton, Yale, Penn and Brown, more
 students came from the top 1 percent of the income scale than from the
 entire bottom 60 percent. The two highest-growth religious groups --
-Evangalical Christianity and resurgent Islam -- have virtually no
+Evangelical Christianity and resurgent Islam -- have virtually no
 representation in elite academia. [Fewer than
 1%](http://religion.ssrc.org/reforum/Gross_Simmons.pdf) of professors
 at elite universities are born-again Christians. Furthermore, the
-academy excludes not just anyone with any background without large
-numbers of publications (e.g. industry, government, or otherwise, no
-matter how good), but most disciplines hire into a very narrow set of
-subfields (for example, computer science operates on a bucket
-system). Within [Harvard's student
+faculty hiring excludes anyone without large numbers of publications
+(e.g. top individuals from industry, government, or otherwise, no
+matter how good), and most disciplines hire into a very narrow set of
+sub-fields (for example, computer science operates on a bucket system,
+where there are no jobs for individuals outside of pre-established
+sub-fields). Within [Harvard's student
 body](http://harvardmagazine.com/2017/05/harvards-class-gap), there
-was an 80/6 split in favor of Clinton over Trump. Within the faculty,
-anecdotally, the split was close to 100/0.
+was an 80/6 split in favor of Clinton over Trump. Within Harvard's
+faculty, anecdotally, the split was close to 100/0.
 
-Hence, curiously, despite the focus on diversity, the diversity of
-ideas and ideologies remains very low in elite academia. Academic
-fields often become increasingly narrow and ideological with time.
+Hence, despite the focus on diversity, the diversity of ideas and
+ideologies remains very low in elite academia. Academic fields often
+become increasingly narrow and ideological with time.
 
 # Task
 
@@ -45,10 +46,11 @@ Now, skim the original paper.
 * Could you comment on the conclusion?
 * Were you able to even read the paper?
 
-If you weren't able to find a copy online, please ask me. Most
-scientific results are published in proprietary journals, hidden from
-public scrutiny, and only available to peers. This particular paper
-could not even be accessed through MIT Libraries.
+As a side note, most scientific results are published in proprietary
+journals, hidden from public scrutiny, and only available to
+self-selected peers. This particular paper could not even be accessed
+through MIT Libraries. Hiding research undermines our credibility as
+scientists as well. But I brought a copy, if you'd like to borrow one.
 
 In the academy, established professors:
 
@@ -58,17 +60,19 @@ In the academy, established professors:
 
 Research communities are, in effect, self-perpetuating. They are
 *extremely* self-perpetuating at the tenure level, where one upset
-letter writer can tank a tenure case. Consequently, it is generally
-impossible to find jobs in new fields, old fields stick around well
-past their usefulness, but in this group, we will explore a different
-aspect: politics and culture.
+letter writer can tank a tenure case (if a vocal Trump supporter were
+up for tenure at Harvard, consider the odds that at least one letter
+writers would dislike them, whether due to explicit or implicit
+bias). This effect leads to poor faculty selection (it is generally
+impossible to find jobs in new fields, and old fields stick around
+well past their usefulness), but we will focus on in this group, we
+will explore a different aspect: politics and culture.
 
 In hard sciences and engineering, this problem generally just leads to
 important problems being ignored (in computer science, for example,
-anything which falls outside of the buckets). However, in the
-humanities and social sciences, such communities generally have
-underlying ideologies, assumptions, and taboos which cannot be
-questioned.
+anything which falls outside of the buckets). In the humanities and
+social sciences, such communities generally have underlying
+ideologies, assumptions, and taboos which cannot be questioned. 
 
 A paper which supports a conservative point of view will, at the very
 least, be given much more scrutiny in the peer review process, and an
@@ -87,7 +91,9 @@ My conclusion from the study is -- unsurprisingly -- that parents who
 follow guidelines from organizations such as the American Academy of
 Pediatrics have better results. Following such guidelines is a good
 parenting practice, but individual guidelines are hardly
-scientifically proven to the level shown in the press coverage.
+scientifically proven to the level shown in the press
+coverage. Spanking kids is probably a bad idea, but it has nowhere
+near the support alleged in the University of Texas popular article.
 
 Your problem is to consider:
 
