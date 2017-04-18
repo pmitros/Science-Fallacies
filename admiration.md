@@ -98,8 +98,8 @@ near the support alleged in the University of Texas popular article.
 Your problem is to consider:
 
 * What are the issues in selection of academics and academic papers?
-* How would we address these issues, and allow science and evidence
-  to emerge free of ideology?
+* How would we address these issues, and decouple science from
+  ideology?
 
 Think about the key players, incentives, and what one would
 realistically need to do to shift them.
