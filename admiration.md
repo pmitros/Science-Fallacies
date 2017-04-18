@@ -96,4 +96,4 @@ Your problem is to consider:
   to emerge free of ideology?
 
 Think about the key players, incentives, and what one would
-realistically need to do to shift them. 
+realistically need to do to shift them.
