@@ -127,7 +127,6 @@ figure out how we might be able to work to effect positive change.
 * [Understanding What Came Before](prior-work.html). Academics are, in
   many ways, disincentivized to read previous work, and incentivized
   to operate in silos.
-* [Scientific Standards](standards.html). 
 
 # About this page
 
