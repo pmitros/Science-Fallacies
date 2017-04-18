@@ -47,7 +47,8 @@ the (very excellent) [Dictator's
 Handbook](https://www.amazon.com/Dictators-Handbook-Behavior-Almost-Politics/dp/1610391845),
 which gives a popular game-theoretic explanation of what is required
 to come to and maintain power. Both of these fall under the category
-of hard tactics.
+of hard tactics. Note that these resources are one lens; can be
+misleading when used in isolation.
 
 Two good references for soft tactics include [Building
 Relationships](http://morassociates.com/readings/MOR_Building_Relationships_Article.pdf)
