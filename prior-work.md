@@ -1,16 +1,16 @@
 # Understanding prior work
 
 **Example 1**: In the 1980s, a popular technique in education was
-education differentiated to students' learning styles. It was believed
-that different students learned better if information were presented
-in an auditory, visual, or kinesthetic way. Over the following
+targetting students' learning styles. Educators believed that
+different students learned better if information were presented in an
+auditory, visual, or kinesthetic way. However, over the following
 decades, there was no evidence for learning styles. Eventually,
 several meta-studies came out which [debunked the concept of learning
 styles](https://www.psychologicalscience.org/journals/pspi/PSPI_9_3.pdf). However,
 [papers](https://scholar.google.com/scholar?q=learning+styles+&as_ylo=2013)
 describing technologies to support different learning styles continue
-to come out, oblivious to this work, and generally repeating
-methodological errors described in such work.
+to come out, oblivious to such work, and generally repeating
+methodological errors in prior work.
 
 **Example 2**: In MOOCs (the space where I operate) a significant
 number of papers -- more than 10 percent -- begin with one of two
@@ -22,24 +22,23 @@ drop-out rate in MOOCs due to some poor press management.
 questions (which was often the state-of-the-practice, due to failure
 to scale best practices, but was never the state-of-the-art).
 
-Many such papers are then simply incorrect. For example, many papers
-attempted to improve on drop-out by adding interventions late in the
-course, where most of the alleged "drop-out" came from users simply
-never logging in, or making it past the first few minutes. Many such
-papers also add interventions which were either already used in
-state-of-the-art MOOCs, or both more difficult to scale and less
-effective than techniques in state-of-the-art MOOCs.
+Many such papers are simply incorrect. Many attempt to improve on
+drop-out by adding interventions late in the course. By that point,
+most of the alleged "drop-out" has happened (users never logging in,
+or only logging in for a few minutes). Many papers also introduce
+interventions which are either already used in state-of-the-art MOOCs,
+or less effective than techniques used in state-of-the-art MOOCs.
 
-Peer reviewers and authors from general ed-tech conferences were
-unaware of the issue; there was no incentive to thoroughly check prior
-work. For a while, a few people from Harvard played whack-a-mole with
-such work. This approach did not work -- rebuttals are rarely read,
-and misconceptions continue to propagate. Indeed, such papers began to
-cite each other.
+Peer reviewers and authors from general ed-tech conferences do not
+have enough background to catch such errors; there are no incentives
+for them to check prior work. For a while, a few people from Harvard
+played whack-a-mole with such work. This approach did not work --
+rebuttals were rarely read, and misconceptions continued to propagate
+from paper to paper.
 
 These examples are the tip of the iceberg. Many MOOC papers
-unknowningly replicate prior results in education research, or worse,
-contradict them with significant (well-known) methodological errors.
+unknowningly replicate prior results in education research, or
+incorrectly contradict based on well-known methodological errors.
 
 For the most part, researchers who ignore prior work can:
 
