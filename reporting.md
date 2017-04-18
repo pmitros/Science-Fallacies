@@ -8,12 +8,12 @@ Consider:
   what to write stories on, and what to publish
 
 As one might expect, there is a strong filter for overstatement of
-results, grandstanding, unqualified results, and controversy.
+results, grandstanding, pandering, and controversy.
 
 As might be expected, constant flip-flopping on issues such as diet
 undermines people's view of the scientific results as facts. This
 volatility of reported facts translates into skeptical views on
-evolution, global warming, vaccinces, and similar issues where science
+evolution, global warming, vaccines, and similar issues where science
 is relatively conclusive.
 
 Indeed, even within those fields, dishonest reporting undermines the

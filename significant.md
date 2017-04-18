@@ -6,7 +6,7 @@ which demonstrated why. To simplify dramatically, we use a confidence
 interval of 5%. If people run 100 experiments, we will see 5 falsely
 statistically significant results. These results will be
 published. Since the majority of experiments have no effect, of those
-hundred experiments, we might see another 5 bulished with a positive
+hundred experiments, we might see another 5 published with a positive
 result. Accounting for other errors, published results are dominated
 by statistical glitches. Several [popular
 publications](http://bigthink.com/neurobonkers/believe-it-or-not-most-published-research-findings-are-probably-false)

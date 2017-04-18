@@ -2,11 +2,11 @@
 
 In the 1980s, a popular technique in education was education
 differentiated to students' learning styles. It was believed that
-different students learned better auditorially, visually, or
-kinesthetically.
+different students learned better if information were presented in
+an auditory, visual, or kinesthetic way.
 
 Over the following decades, there was no evidence for learning
-styles. Eventually, several metastudies came out which [debunked
+styles. Eventually, several meta-studies came out which [debunked
 the concept of learning
 styles](https://www.psychologicalscience.org/journals/pspi/PSPI_9_3.pdf).
 
@@ -34,7 +34,7 @@ less effective than techniques in state-of-the-art MOOCs.
 
 Neither the reviewers nor the authors from general ed-tech conferences
 were aware of the issue. For a while, a few people from Harvard played
-wack-a-mole with such work. This approach did not work -- rebuttals
+whack-a-mole with such work. This approach did not work -- rebuttals
 are rarely read, and misconceptions continue to propagate. Indeed,
 such papers began to cite each other.
 
@@ -47,4 +47,4 @@ For the most part, researchers who ignore prior work can:
 * Make greater claims about the impact of their own work
 * Have more time for research. 
 
-In a competitive landscape, such researchers tend to win. 
+In a competitive landscape, such researchers tend to win.
