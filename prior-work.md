@@ -1,6 +1,6 @@
 # Understanding prior work
 
-** Example 1**: In the 1980s, a popular technique in education was
+**Example 1**: In the 1980s, a popular technique in education was
 education differentiated to students' learning styles. It was believed
 that different students learned better if information were presented
 in an auditory, visual, or kinesthetic way. Over the following
