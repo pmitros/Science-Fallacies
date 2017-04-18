@@ -21,8 +21,10 @@ credibility of science. We see articles disproving older predictions
 of global warming, where academics sought coverage by overstating
 results.
 
-This gives a genuine reason to distrust scientists as an authority.
+This gives a genuine reason to distrust the scientific establishment
+as an authority.
 
 Consider how we might address issues around science reporting and
 publicity, both with regards to newspaper reporting, and with regards
-to popular articles.
+to book publishing and publicity. Consider both reporters' incentives
+and those of scientists. 
