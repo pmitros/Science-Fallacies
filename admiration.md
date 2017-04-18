@@ -40,7 +40,9 @@ become increasingly narrow and ideological with time.
 Skim [this popular article on
 spanking](https://news.utexas.edu/2016/04/25/risks-of-harm-from-spanking-confirmed-by-researchers).
 
-Now, skim the original paper.
+Now, skim the original paper. This paper is not an example of a
+particularly bad paper (something we can all find). It is typical of
+the state of the academy.
 
 * Do you agree with the conclusion?
 * Could you comment on the conclusion?
