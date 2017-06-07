@@ -14,7 +14,7 @@ preconceptions". The paper was published, of course.
 
 In response to this, several MIT scholars designed a tool,
 [SCIGen](https://pdos.csail.mit.edu/archive/scigen/), which generated
-gibbrish papers, and had one published at WMSCI 2005, admittedly a
+gibberish papers, and had one published at WMSCI 2005, admittedly a
 weak conference. What was less publicized that in the decade
 following, [over 120
 papers](http://www.nature.com/news/publishers-withdraw-more-than-120-gibberish-papers-1.14763)
@@ -33,12 +33,12 @@ Consider:
 * If you've published articles, what has your experience with the peer
   review process been?
 * What incentives does academia give reviewers to do a good job? What
-  pressures are there on acadamics' time? Will academics who spend a
-  lot of time on reviews get acadamic jobs? Tenure?
+  pressures are there on academics' time? Will academics who spend a
+  lot of time on reviews get academic jobs? Tenure?
 * Consider three otherwise identical academics: (1) One does careful
   work, free of errors (2) One does sloppy work with many accidental
   errors (3) One occasionally fakes results. Who is more likely to be
-  selected for acadamic jobs? For tenure?  
+  selected for academic jobs? For tenure?  
 * Does this process result in good science? If not, how would you
   improve on it? Consider the incentives of academics, university
   administrators, conference organizers, reviewers, and other

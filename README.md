@@ -23,7 +23,7 @@ bad science. According to
 [Pew](http://www.pewinternet.org/2016/10/04/public-views-on-climate-change-and-climate-scientists/),
 roughly half of the US population does not believe in human-caused
 climate change. The public has developed a healthy distrust of
-science. Unforunately, much of this skepticism is justified. Science,
+science. Unfortunately, much of this skepticism is justified. Science,
 especially as presented in K-12 classrooms, popular press, and popular
 books, is [quite
 often](http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124)
@@ -42,7 +42,7 @@ event.
 
 # Pre-work and References
 
-Prework is not required but recommended. In particular, there are two
+Pre-work is not required but recommended. In particular, there are two
 entertaining videos which might be helpful to watch before the
 session. [This Video Will Make You
 Angry](https://www.youtube.com/watch?v=rE3j_RHkqJc) discusses how
@@ -52,7 +52,8 @@ the (very excellent) [Dictator's
 Handbook](https://www.amazon.com/Dictators-Handbook-Behavior-Almost-Politics/dp/1610391845),
 which gives a popular game-theoretic explanation of what is required
 to come to and maintain power. Both of these fall under the category
-of hard tactics.
+of hard tactics. Note that these resources are one lens; can be
+misleading when used in isolation.
 
 Two good references for soft tactics include [Building
 Relationships](http://morassociates.com/readings/MOR_Building_Relationships_Article.pdf)
@@ -68,9 +69,10 @@ which focuses on how to understand the opposition, and come up with
 solutions which meet the needs of all parties involved.
 
 When reading these books, remember that changes often happen
-behind-the-scenes. 
+behind-the-scenes. The most visible protests are rarely the most
+effective.
 
-# Why should you attend this session?
+# Why should I attend this session?
 
 In college at MIT, most of us had poor soft skills, and didn't really
 get what soft skills were. MIT's training in soft skills was limited
@@ -78,13 +80,13 @@ to "communications intensive" courses and groupwork, which didn't
 really do the job especially well.
 
 This gap held me back (in the words of one mentor, as I was starting a
-new organization, I was "like a bull in a Chinashop"). Since
+new organization, I was "like a bull in a chinashop"). Since
 graduation, I have spent a lot of time trying to understand, both
 theoretically and practically, how to effectively effect
 organizational change.
 
 I have been increasingly successful at this effort. I have been
-involved in three initatives as a cofounder or early employee. All
+involved in three initiatives as a co-founder or early employee. All
 broke the $100 million mark. Through that journey, I learned much more
 about soft skills required in the real world. I'd like to share some
 of that knowledge. A few of the things I've done (like edX, which I
@@ -99,8 +101,9 @@ figure out how we might be able to work to effect positive change.
 
 # Tentative Session Structure
 
-* 15 minutes: Overview of session, overview of frameworks of
-  organizational change
+* 15 minutes: [Overview of
+  session](https://docs.google.com/presentation/d/1gxlJ7eoxU2NzR8LmCFrHPFu1Z1fv0n6y1t9ZVSdunlQ/edit),
+  overview of frameworks of organizational change
 * 30 minutes: Break into groups. Each group prepares a 5 minute minute
   presentation about their problem
 * 30 minutes: Group presentations
@@ -122,14 +125,13 @@ figure out how we might be able to work to effect positive change.
   individuals into their fields. Thereau called this a mutual
   admiration society. Today, it is called an echo chamber, and
   conflicting voices are excluded from the discourse.
-* [Science Reporting](reporting.html). Did you know chocolate is
-  healthy? There is a selection process by which results go from
+* [Science Reporting](reporting.html). Did you know [chocolate is
+  healthy](http://www.telegraph.co.uk/food-and-drink/healthy-eating/chocolate-10-health-reasons-you-should-eat-more-of-it/)? There is a selection process by which results go from
   science to popularization, whether through books or articles. It is
   rarely based on the quality of the research.
 * [Understanding What Came Before](prior-work.html). Academics are, in
   many ways, disincentivized to read previous work, and incentivized
   to operate in silos.
-* [Scientific Standards](standards.html). 
 
 # About this page
 
