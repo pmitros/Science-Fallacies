@@ -1,4 +1,4 @@
->> *“If you know the enemy and know yourself, you need not fear the result of a hundred battles. If you know yourself but not the enemy, for every victory gained you will also suffer a defeat. If you know neither the enemy nor yourself, you will succumb in every battle.”* - 孫子
+> *“If you know the enemy and know yourself, you need not fear the result of a hundred battles. If you know yourself but not the enemy, for every victory gained you will also suffer a defeat. If you know neither the enemy nor yourself, you will succumb in every battle.”* - 孫子
 
 # What is this?
 
@@ -34,6 +34,11 @@ address them.
 
 A [draft curriculum](http://www.sciencefallacies.org/) with
 recommended pre-work is available. Session limited to 30 participants.
+
+This session was inspired by [Fake News, Concrete
+Responses](https://cyber.harvard.edu/events/2017/03/FakeNews) at
+Harvard, and is intended as an inwards-facing version of the same
+event.
 
 # Pre-work and References
 
